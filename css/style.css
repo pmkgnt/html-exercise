@@ -1,1 +1,21 @@
+body {
+  background-color: powderblue;
+}
+hr {
+  border-color: blue;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3px;
+  width: 30%;
+}
+
+h1,
+h3 {
+  color: darkblue;
+}
+
+table {
+  border-style: dashed;
+  border-width: 1px;
+}
 
